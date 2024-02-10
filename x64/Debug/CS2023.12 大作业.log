@@ -1,0 +1,51 @@
+﻿  change_to_string.cpp
+  deal_five.cpp
+  card_sort.cpp
+  card_type.cpp
+  change _to_ num.cpp
+  deal_bomb.cpp
+  find_bomb.cpp
+  get_small_bomb.cpp
+  get_small_double_three.cpp
+  get_small_five.cpp
+  get_small_pair.cpp
+  get_small_three.cpp
+  get_small_threetwo.cpp
+  get_small_three_pair.cpp
+  judge_bomb.cpp
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(12,9): warning C4101: “threepair”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(8,9): warning C4101: “five”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(3,9): warning C4101: “hand_temp”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(5,9): warning C4101: “bomb”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(11,9): warning C4101: “samethree”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(4,9): warning C4101: “base”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(7,9): warning C4101: “streight_five”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(15,9): warning C4101: “run”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(10,9): warning C4101: “doublethree”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(13,9): warning C4101: “pairs”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(9,9): warning C4101: “threetwo”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(14,9): warning C4101: “single”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge_bomb.cpp(6,9): warning C4101: “king”: 未引用的局部变量
+  pass.cpp
+C:\大作业\程设基础\CS2023.12 大作业\pass.cpp(97,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  streight_five.cpp
+  delete_cards&&find_min.cpp
+C:\大作业\程设基础\CS2023.12 大作业\delete_cards&&find_min.cpp(27,22): warning C4101: “found8”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\delete_cards&&find_min.cpp(28,6): warning C4101: “face”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\delete_cards&&find_min.cpp(27,14): warning C4101: “found7”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\delete_cards&&find_min.cpp(29,7): warning C4101: “exist”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\delete_cards&&find_min.cpp(619,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hand_count.cpp
+  judge.cpp
+C:\大作业\程设基础\CS2023.12 大作业\judge.cpp(9,9): warning C4101: “j”: 未引用的局部变量
+C:\大作业\程设基础\CS2023.12 大作业\judge.cpp(9,6): warning C4101: “i”: 未引用的局部变量
+  正在生成代码...
+  正在编译...
+  non_level_base.cpp
+  掼蛋 mainprogram（初版）.cpp
+  掼蛋mainprogram(新版）.cpp
+C:\大作业\程设基础\CS2023.12 大作业\data.h(59,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\大作业\程设基础\CS2023.12 大作业\data.h(62,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\大作业\程设基础\CS2023.12 大作业\data.h(76,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  CS2023.12 大作业.vcxproj -> C:\大作业\程设基础\CS2023.12 大作业\x64\Debug\CS2023.12 大作业（黑窗口）.exe
